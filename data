@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Data Deletion Request</title>
+</head>
+<body>
+    <h1>Delete Your Account and Data</h1>
+    <p>We respect your privacy and are committed to protecting your data. If you wish to delete your account and associated data, please follow these steps:</p>
+    <ol>
+        <li>Log in to your Edustaff account.</li>
+        <li>Go to your account settings.</li>
+        <li>Find the option to "Delete My Account" and click on it.</li>
+        <li>Follow the on-screen instructions to confirm the deletion of your account.</li>
+    </ol>
+    <p>Once you've requested the deletion of your account, please note the following:</p>
+    <ul>
+        <li>We will permanently delete your personal information, including your email address, name, phone number, and any other data you provided.</li>
+        <li>We will not retain any of your data after the account deletion process is complete.</li>
+        <li>The deletion process may take up to 30 days to ensure the complete removal of your data from our systems.</li>
+    </ul>
+    <p>If you have any questions or encounter any issues during the deletion process, please contact us at raisun@edustaff.in.</p>
+    <p>Thank you for using Edustaff, and we appreciate your trust in us.</p>
+</body>
+</html>
